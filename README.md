@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Yiming Xie (2824330034) 
 
 ## 🤓 Course overview and learning outcomes 
 
